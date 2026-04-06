@@ -1,0 +1,52 @@
+#task 1
+'''a=10
+b=20
+print("Add:",a+b)
+print("sub:",a-b)
+print("mut:",a*b)
+print("div:",a/b)
+print("mod:",a//b)
+print("rem:",a%b)
+print("exp:",a**b)
+'''
+'''
+#task 2
+#Square-area
+a=10
+print("sqr:",a**2)
+#Reactangle
+l=2
+r=3
+print("rec:",l*r)
+ #cir
+a=3.14
+print("cir:",a**2)
+#perimeter of sqr
+a=4
+print("per:",2*a)
+#permeter of rec
+l=18
+b=2
+print("per of rec:",2*l*b)
+#perimeter of cir
+a=3.14
+r=7
+print(*"per of cir:",2*a*r)
+'''
+'''
+#task 3
+a=float(input("Enter first number:"))
+b=float(input("Enter second number:"))
+c=float(input("Enter third number:"))
+print("Average=:",a+b+c/3)    
+'''
+#task 4
+a=int(input("Enter a  first num:"))
+b=int(input("Enter a second num:"))
+
+if a==b:
+   print(" both num are greater:")
+if  a>b:
+    print (" one num is greater:")
+if a<=b:
+    print("a number is less than or equal to another:")
